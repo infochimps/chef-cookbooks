@@ -117,7 +117,7 @@
 	url = https://github.com/rcbops-cookbooks/haproxy.git
 [submodule "cookbooks/nova-network"]
 	path = cookbooks/nova-network
-	url = https://github.com/rcbops-cookbooks/nova-network.git
+	url = https://github.com/infochimps/nova-network.git
 [submodule "cookbooks/keepalived"]
 	path = cookbooks/keepalived
 	url = https://github.com/rcbops-cookbooks/keepalived.git
